@@ -1,3 +1,12 @@
+## Data type
+```python
+a = 10
+b = 5.6
+
+print(" a is", a, type(a))
+print(" b is", b, type(b))
+```
+
 ## for loop
 ```python
 for i in range(n):
