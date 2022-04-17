@@ -3,8 +3,8 @@
 a = 10
 b = 5.6
 
-print(" a is", a, type(a))
-print(" b is", b, type(b))
+print(" a is", a, type(a)) # a is 10 <class 'int'>
+print(" b is", b, type(b)) # b is 5.6 <class 'float'>
 ```
 
 ## for loop
