@@ -16,3 +16,5 @@
  [0.     1.     0.     0.     0.     0.     0.    ]
  [0.     0.6667 0.     0.     0.3333 0.     0.    ]]
 ```
+# K-NN.py
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeiRcvf%2FbtrzEBSSoAD%2F6ndshN78KVMMTmgIJsXEK1%2Fimg.png" width="600" height="500">  
