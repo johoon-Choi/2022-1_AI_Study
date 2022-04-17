@@ -3,9 +3,9 @@
 ## Linear Regression.py
 * Plotted output
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTefnB%2FbtrzyWD0bt2%2FkVobWd42KGA8V69NS0TMA1%2Fimg.png" width="500" height="430">  
-* 빨간색 ▲ : K-NN 을 사용하여 length가 50인 data 의 weight 값을 predict 하였다.
-* 초록색 ▲ : 선형 회귀를 이용하여 length가 50인 data의 weight 값을 predict 하였다.
-* 보라색 ▲ : 다항 회귀를 이용하여 length가 50인 data의 weight 값을 predict 하였다.
+* 빨간색 ▲ : K-NN 을 사용하여 length가 50인 data 의 weight 값을 predict 하였다.  
+* 초록색 ▲ : 선형 회귀를 이용하여 length가 50인 data의 weight 값을 predict 하였다.  
+* 보라색 ▲ : 다항 회귀를 이용하여 length가 50인 data의 weight 값을 predict 하였다.  
 
 
 ## pandas prac.py
